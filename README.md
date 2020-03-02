@@ -2,7 +2,7 @@
 
 ### Overview
 
-A neural network trained to recognized hand-written numbers. This was built using [PyTorch](https://pytorch.org/), and trained on the [MNIST handwritten digit database](http://yann.lecun.com/exdb/mnist/).
+A neural network trained to recognized handwritten numbers. This was built using [PyTorch](https://pytorch.org/), and trained on the [MNIST handwritten digit database](http://yann.lecun.com/exdb/mnist/).
 
 ### Jupyter Notebook
 
